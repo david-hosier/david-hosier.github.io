@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Webelos Uniform - New Scouts
 ---
 
@@ -24,10 +25,11 @@ Below is the list of items you will need. Each item has a link to the online Sco
 | [Neckerchief Slide](http://www.scoutstuff.org/webelos-scout-neckerchief-slide.html) | $5.99 | |
 | [Belt](http://www.scoutstuff.org/centennial-boy-scouttm-web-belt.html) | $12.99 | I think there is only one olive belt, but just double-check with the staff at the Scout Shop to make sure. |
 | [Colors](http://www.scoutstuff.org/webelos-colors.html) | $5.99 | The boys will earn pins for each adventure we complete next year. The adventures are our requirements to earn the Webelos rank. These colors hang from the sleeve, and the pins will be affixed to the colored strips of fabric. |
-| Patches | ? | The patches you will need are, the American flag (I believe this might already be affixed to all shirts sold at the Scout Shop), the Pack numerals 735, the Golden Empire Council patch (also already affixed I think), the World Crest, and the 'Den 8' patch<sup>[1](#denpatch)</sup>.
+| Patches | ? | The patches you will need are, the American flag (I believe this might already be affixed to all shirts sold at the Scout Shop), the Pack numerals 735, the Golden Empire Council patch (also already affixed I think), the World Crest, and the 'Den 8' patch[^1].
 | Webelos Handbook | $12.99-$18.99 | Choose either the [Perfect-Bound](http://www.scoutstuff.org/bsa/literature-media/handbooks/handbook-cs-we-perf-bnd.html) or [Coil-Bound](http://www.scoutstuff.org/bsa/literature-media/handbooks/handbook-cs-we-coil.html) handbook. Having used the perfect-bound version the last couple years, I opted for the coil-bound book for next year. The durability of the perfect-bound just isn't where it should be, and this book needs to last for two years. |
 
-<a name="denpatch">1</a>: I'm told that Webelos Dens typically will come up with a name instead of using our Den number. What I was told is that Dens will typically look for cool-looking patches at the shop, and choose their Den name according to what patch they like. Then instead of wearing the Den number patch on the sleeve, they wear the Den emblem patch they've chosen. I don't see any reason why we would not do this. So you may want to hold off on buying the Den 8 on the presumption that we will choose an emblem to wear instead.
+[^1]: I'm told that Webelos Dens typically will come up with a name instead of using our Den number. What I was told is that Dens will typically look for cool-looking patches at the shop, and choose their Den name according to what patch they like. Then instead of wearing the Den number patch on the sleeve, they wear the Den emblem patch they've chosen. I don't see any reason why we would not do this. So you may want to hold off on buying the Den 8 on the presumption that we will choose an emblem to wear instead.
+
 
 ### Optional Items
 
