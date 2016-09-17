@@ -37,6 +37,9 @@ On the sign off page, you can set the date the requirement was completed, add no
 
 Once requirements are marked as completed by a parent, they will show up in a report that is visible to your den leader that shows all the requirements that are pending approval. When all requirements for an Adventure are completed, your den leader will request that the awards for those Adventures be purchased by the pack. When the awards are purchased, they will be distributed to the den leader to hand out to the boys as soon as possible. Advancement awards are typically purchased once per month and given to the den leaders at pack meetings.
 
+**UPDATE** Here is a video I made showing this workflow.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3O4tA2w34uY" frameborder="0" allowfullscreen></iframe>
+
 ## <a name="olddata"></a>Q. Why is My Scout Missing Old Advancement Information
 
 If your scout is in a Wolf den or higher, you may notice that most or all of the data from previous years is not entered in the system. At the current time, there is no way to easily add all this old information. Well, I just found out that an enhancement to Scoutbook is imminent that will add automatic syncing with the official BSA online advancement tracking system. Allegedly, this will pull all old data that exists in the system into Scoutbook the first time it syncs, as well as keeping everything in sync after that. There may be some delay between the release date of this feature and our data being updated however, because there are very strict requirements on how our information is entered into Scoutbook in order for this sync to work properly. I will be working with our Membership Chair Kristen West to make sure we have all the data we need to get this working in a timely manner.
