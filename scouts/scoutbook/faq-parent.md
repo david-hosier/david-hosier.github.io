@@ -4,12 +4,18 @@ title: Scoutbook Parent FAQ
 ---
 
 * [What is Scoutbook](#what)
+* [How do I see my scout on Scoutbook](#login)
 * [Sign Off Requirements](#signoff)
+* ["Uncomplete" Requirements](#uncomplete")
 * [Missing Old Advancement Information](#olddata)
 
 ## <a name="what"></a>Q. What is Scoutbook?
 
 Scoutbook is an online system for tracking Cub Scout (and other forms of scouting) advancement. In scouting, advancement tracking is the means by which leaders keep track of which requirements our scouts are completing on their way to earning their current year's rank. Scoutbook allows parents and leaders to sign off and approve requirements online, as well as provide extremely powerful tools to monitor a scout's progress.
+
+## <a name="login"></a>Q. How Do I Login and View My Scout on Scoutbook?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ms1RqwCcCZw" frameborder="0" allowfullscreen></iframe>
 
 ## <a name="signoff"></a>Q. How Do I Sign Off My Scout's Requirements?
 
@@ -37,8 +43,12 @@ On the sign off page, you can set the date the requirement was completed, add no
 
 Once requirements are marked as completed by a parent, they will show up in a report that is visible to your den leader that shows all the requirements that are pending approval. When all requirements for an Adventure are completed, your den leader will request that the awards for those Adventures be purchased by the pack. When the awards are purchased, they will be distributed to the den leader to hand out to the boys as soon as possible. Advancement awards are typically purchased once per month and given to the den leaders at pack meetings.
 
-**UPDATE** Here is a video I made showing this workflow.
+**UPDATE** Here is a video I made showing this workflow. Note: Watch the video on YouTube.com or in fullscreen to see it more clearly.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O4tA2w34uY" frameborder="0" allowfullscreen></iframe>
+
+## <a name="uncomplete"></a>Q. How Do I "Uncomplete" a Requirement?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mez85Ukwfz4" frameborder="0" allowfullscreen></iframe>
 
 ## <a name="olddata"></a>Q. Why is My Scout Missing Old Advancement Information
 
