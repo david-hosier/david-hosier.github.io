@@ -7,6 +7,7 @@ title: Scoutbook Leader FAQ
 * [Sign Off Requirements](#signoff)
 * [Approval Workflow](#approval)
 * ["Uncomplete" Requirements](#uncomplete")
+* [Scoutbook Calendar](#calendar)
 
 ## <a name="view"></a>Q. How Do I Login and View My Den?
 
@@ -43,3 +44,11 @@ Once the awards are handed out to the boys, those adventures need to be marked a
 Below is a video I made for the Parent FAQ, but it is applicable for den leaders as well. The video demonstrates how to deal with undoing an action where you mistakenly approved something that should not have been approved.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mez85Ukwfz4" frameborder="0" allowfullscreen></iframe>
+
+## <a name="calendar"></a>Q. How Do I Use the Scoutbook Calendar
+
+The Scoutbook calendar can be a valuable planning and organization tool for you and your den families. The most compelling reason to use the Scoutbook calendar to schedule your den meetings is the ability to link advancement information to the calendar events. The video below demonstrates how to setup a den meeting calendar event and associate advancement information with the event.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0uriRiYTb3Q" frameborder="0" allowfullscreen></iframe>
+
+One thing I don't like about how this works is that the advancement information is not visible on the calendar event itself. The dates get associated with the requirements in the scouts's advancement pages. So it's a good idea to use the description part of the event to guide the families towards the correct adventure to look at to see what will be covered on what date.
